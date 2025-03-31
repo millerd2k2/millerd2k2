@@ -1,7 +1,7 @@
 Hi there! I'm Daniel, and this page is where I will be hosting a small selection of my projects I feel are robust enough to keep on a portfolio.
 This will hopefully grow over time as I either find more backlogged projects I've done or develop new ones.
 
-I'm currently learning ASP.NET and Blazor as I develop an online version of the card game Bulls**t.
+I'm currently learning ASP.NET and Blazor as I develop an online version of the card game Cheats (more well-known as Bulls**t).
 My strongest languages by far is C#, but I am also familiar with Java, C/C++, JavaScript, PHP, SQL, and a little bit of Python.
 I also learned some Prolog as part of a class.
 
